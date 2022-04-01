@@ -4,5 +4,5 @@
  * @return {boolean}
  */
  var isAnagram = function(s, t) {
-    
+    var lenA = s.length;
   };
