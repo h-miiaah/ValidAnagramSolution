@@ -7,4 +7,7 @@
     var lenA = s.length;
     var lenB = t.length;
     var map = {};
+
+    if (lenA !== lenB) return false;
+    
   };
