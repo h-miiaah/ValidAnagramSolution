@@ -19,4 +19,6 @@
         if (!map[t[j]]) return false;
         map[t[j]]--;
       }
+
+      return true;
   };
