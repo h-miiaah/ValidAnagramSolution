@@ -26,5 +26,6 @@
 
   /***
    * First, we check if the two strings have the same length.
+   * If they don’t, then they can’t be anagrams.
    * 
    */
