@@ -5,4 +5,5 @@
  */
  var isAnagram = function(s, t) {
     var lenA = s.length;
+    var lenB = t.length;
   };
