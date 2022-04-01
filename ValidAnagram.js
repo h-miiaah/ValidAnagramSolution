@@ -9,5 +9,8 @@
     var map = {};
 
     if (lenA !== lenB) return false;
-    
+
+    for (var i = 0; i < lenA; i++) {
+        
+      }
   };
