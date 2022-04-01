@@ -31,5 +31,6 @@
    * Iterate through the second string and decrement the count of each character.
    * If we encounter a character that doesn’t exist in the map or if its count becomes negative, then the two strings aren’t anagrams.
    * Finally, we check if all the characters in the map have count 0.
+   * If they don’t, then the two strings aren’t anagrams.
    * 
    */
