@@ -14,4 +14,8 @@
         if (!map[s[i]]) map[s[i]] = 0;
         map[s[i]]++;
       }
+
+    for (var j = 0; j < lenB; j++) {
+        
+      }
   };
