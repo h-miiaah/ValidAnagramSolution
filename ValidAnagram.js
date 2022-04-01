@@ -16,6 +16,7 @@
       }
 
     for (var j = 0; j < lenB; j++) {
+        if (!map[t[j]]) return false;
         
       }
   };
