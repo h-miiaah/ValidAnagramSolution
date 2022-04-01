@@ -12,6 +12,6 @@
 
     for (var i = 0; i < lenA; i++) {
         if (!map[s[i]]) map[s[i]] = 0;
-        
+        map[s[i]]++;
       }
   };
