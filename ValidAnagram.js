@@ -11,6 +11,7 @@
     if (lenA !== lenB) return false;
 
     for (var i = 0; i < lenA; i++) {
+        if (!map[s[i]]) map[s[i]] = 0;
         
       }
   };
