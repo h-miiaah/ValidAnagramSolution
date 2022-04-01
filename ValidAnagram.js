@@ -25,5 +25,6 @@
 
 
   /***
+   * First, we check if the two strings have the same length.
    * 
    */
