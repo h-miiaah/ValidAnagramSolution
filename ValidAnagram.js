@@ -29,5 +29,6 @@
    * If they don’t, then they can’t be anagrams.
    * Next, we create a map to store the count of each character in the first string.
    * Iterate through the second string and decrement the count of each character.
+   * If we encounter a character that doesn’t exist in the map or if its count becomes negative, then the two strings aren’t anagrams.
    * 
    */
